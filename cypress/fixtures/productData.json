@@ -1,0 +1,13 @@
+{
+    "name": "test",
+    "gender": "Male",
+    "ProductNames":
+    [
+        "iphone X",
+        "Samsung Note 8",
+        "Nokia Edge",
+        "Blackberry"
+    ],
+    "Url":"https://rahulshettyacademy.com/angularpractice/",
+    "country":"China"
+}
